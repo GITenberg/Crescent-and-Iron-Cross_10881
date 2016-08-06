@@ -1,0 +1,35 @@
+_repo: Crescent-and-Iron-Cross_10881
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward Frederic
+    - Benson, Edward F. (Edward Frederic)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- Foreign relations -- Germany'
+- !lcsh 'Germany -- Foreign relations -- Turkey'
+- !lcc 'D501'
+- !lcsh 'Armenian question'
+- !lcsh 'World War, 1914-1918 -- Turkey'
+- GITenberg
+tableOfContents: The theory of the old Turks -- The theory of the new Turks -- The
+  end of the Armenian question -- The question of Syria and Palestine -- Deutschland
+  über Allah -- "Thy kingdom is divided" -- The grip of the octopus.
+title: Crescent and Iron Cross
+url: http://www.gutenberg.org/ebooks/10881
